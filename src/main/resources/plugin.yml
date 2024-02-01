@@ -1,0 +1,4 @@
+name: XPlotSquared
+version: '${project.version}'
+main: de.ghost143.xplotsquared.XPlotSquared
+api-version: '1.18'
