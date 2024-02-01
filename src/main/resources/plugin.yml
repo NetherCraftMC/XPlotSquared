@@ -2,3 +2,16 @@ name: XPlotSquared
 version: '${project.version}'
 main: de.ghost143.xplotsquared.XPlotSquared
 api-version: '1.18'
+description: This Plugin brings old PlotSquared Commands back like /p h
+
+commands:
+  plot:
+    description: Plot Command
+    aliases:
+      - p
+      - p2
+      - 2
+  XCredits:
+    description: Credits for this Plugin..
+  XInfo:
+    description: Information about the Plugin..
